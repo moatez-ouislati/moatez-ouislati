@@ -25,3 +25,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moatez-ouislati&" alt="moatez-ouislati" /></p>
 
+![Cat](https://github.com/moatez-ouislati/moatez-ouislati/blob/main/cat-pixel.gif)
+
+
